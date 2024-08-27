@@ -15,13 +15,15 @@ Olá, rede! Esse é meu projeto Codificador e Descodificador de textos.
 
 ## Video de apresentação
 
-- [Video](./images/Apresentando%20Projeto.mp4)
+- [Video] https://github.com/user-attachments/assets/197738b7-cfc5-4653-a85e-f6ef17a7aca0
+
+
 
 ## Conteúdo:
 
 ### Deploy:
 
-[Encrypt Text](https://solrac-henrique.github.io/alura-challenge1-decodificador-descodificador/#)
+[Encrypt Text]C:\Users\NOT_CASA\Downloads\alura-challenge1-decodificador-descodificador-main\alura-challenge1-decodificador-descodificador-main\index.html
 
 ### Resumo:
 
